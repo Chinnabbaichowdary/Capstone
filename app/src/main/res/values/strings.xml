@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Chores</string>
+    <string name="title_activity_add_location_maps">AddLocationMapsActivity</string>
+
+    <string-array name="status">
+        <item>Select Status</item>
+        <item>In Progress</item>
+        <item>Completed</item>
+    </string-array>
+</resources>
