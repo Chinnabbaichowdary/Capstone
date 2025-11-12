@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ChorePal</string>
+    <string name="title_activity_add_location_maps">AddLocationMapsActivity</string>
+
+    <string-array name="status">
+        <item>Select Status</item>
+        <item>In Progress</item>
+        <item>Completed</item>
+    </string-array>
+
+    <string name="read_file">This app needs access to your file storage so that it can read photos.</string>
+
+</resources>
