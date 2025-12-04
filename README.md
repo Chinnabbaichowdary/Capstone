@@ -1,15 +1,15 @@
-# ChorePal 🏠✨
+# ChorePal
 
 A family chore management Android app that helps parents assign and track chores for their children, with a points-based reward system.
 
 ## Features
 
-- 👨‍👩‍👧‍👦 **Parent & Child Accounts** - Parents can create accounts and invite children using a family code
-- ✅ **Chore Management** - Create, assign, and track daily, weekly, and bonus chores
-- 📸 **Photo Proof** - Children can submit photos as proof of completed chores
-- ⭐ **Points System** - Earn points for completing chores, redeem for rewards
-- 🔔 **Notifications** - Stay updated on chore assignments and approvals
-- 🔐 **Firebase Authentication** - Secure email-based authentication with verification
+- **Parent & Child Accounts** - Parents can create accounts and invite children using a family code
+- **Chore Management** - Create, assign, and track daily, weekly, and bonus chores
+- **Photo Proof** - Children can submit photos as proof of completed chores
+- **Points System** - Earn points for completing chores, redeem for rewards
+- **Notifications** - Stay updated on chore assignments and approvals
+- **Firebase Authentication** - Secure email-based authentication with verification
 
 ---
 
@@ -73,7 +73,7 @@ cd Capstone
 
 The app uses Firebase for authentication. The `google-services.json` file is already included in the `app/` directory.
 
-> ⚠️ **Note**: If you want to use your own Firebase project:
+> **Note**: If you want to use your own Firebase project:
 > 1. Go to [Firebase Console](https://console.firebase.google.com/)
 > 2. Create a new project
 > 3. Add an Android app with package name: `com.chorepal.app`
@@ -108,7 +108,7 @@ gradlew.bat assembleDebug
 
 1. Open **AVD Manager**: `Tools > Device Manager`
 2. Create a new virtual device (recommended: Pixel 6 with API 33+)
-3. Click the **Run** button (▶️) or press `Shift+F10`
+3. Click the **Run** button or press `Shift+F10`
 
 ### Option 2: Physical Device
 
@@ -119,7 +119,7 @@ gradlew.bat assembleDebug
    - Go to `Settings > Developer Options`
    - Toggle on **USB Debugging**
 3. Connect your device via USB
-4. Click the **Run** button (▶️) in Android Studio
+4. Click the **Run** button in Android Studio
 
 ---
 
@@ -195,15 +195,3 @@ ChorePal/
 - Ensure `google-services.json` is in the `app/` folder
 - Check Firebase project configuration
 - Review Logcat for error details
-
----
-
-## License
-
-This project is for educational purposes as part of a Capstone project.
-
----
-
-## Contact
-
-For questions or issues, please open an issue on the [GitHub repository](https://github.com/Chinnabbaichowdary/Capstone/issues).
