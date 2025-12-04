@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ChorePal</string>
+    <string name="login">Login</string>
+    <string name="signup">Sign Up</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="name">Name</string>
+    <string name="logout">Logout</string>
+    <string name="parent_dashboard">Parent Dashboard</string>
+    <string name="child_dashboard">My Chores</string>
+    <string name="create_chore">Create Chore</string>
+    <string name="assign_chore">Assign Chore</string>
+    <string name="mark_complete">Mark Complete</string>
+    <string name="approve">Approve</string>
+    <string name="reject">Reject</string>
+    <string name="points">Points</string>
+    <string name="total_points">Total Points</string>
+    <string name="chore_title">Chore Title</string>
+    <string name="chore_description">Description</string>
+    <string name="points_value">Points Value</string>
+    <string name="daily">Daily</string>
+    <string name="bonus">Bonus</string>
+    <string name="weekly">Weekly</string>
+    <string name="no_chores">No chores yet</string>
+    <string name="pending_approval">Pending Approval</string>
+    <string name="approved">Approved</string>
+    <string name="rejected">Rejected</string>
+    <string name="history">History</string>
+    <string name="children">Children</string>
+    <string name="add_child">Add Child</string>
+</resources>
+
